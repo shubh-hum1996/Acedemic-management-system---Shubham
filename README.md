@@ -200,6 +200,8 @@ Code Link :[Roll up](https://github.com/shubh-hum1996/Acedemic-management-system
 
 c) Cube - A query to explore sales data from different perspectives, such as product, region, and date. As MYSQL does not support CUBE keyword, we have used UNION ALL.
 
+Code Link : [Cube](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Cube-.sql)
+
 d)Slice- A query to slice the data to view sales for a particular region or date range.
 
 e) Dice - A query to view sales for specific combinations of product, region, and date
