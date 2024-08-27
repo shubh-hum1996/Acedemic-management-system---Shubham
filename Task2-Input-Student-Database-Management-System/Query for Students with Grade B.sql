@@ -1,6 +1,3 @@
-SELECT 
-    stu_name, YEAR(CURDATE()) - YEAR(Date_of_birth) AS Age
-FROM
-    student_table
-WHERE
-	GRADE = "B";
+SELECT Stu_name, (strftime('%Y', 'now') - strftime('%Y', Date_of_birth)) AS age
+FROM Student_table
+WHERE Grade = 'B';
