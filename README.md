@@ -171,7 +171,7 @@ Objective: Perform OLAP operations (Drill Down, Rollup, Cube, Slice, and Dice) o
 
    1. Database Creation: Creating a database to store the sales data and a table named sales_sample with the columns: Product_ld, Region, Date, Sales_Amount
 
-Code Link: Database Creation
+Code Link: [Database Creation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Database%20Creation.sql)
 
     2. Data Creation: Inserting 10 sample records into the sales_sample table, representing sales data.
 
