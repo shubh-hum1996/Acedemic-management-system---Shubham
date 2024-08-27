@@ -84,6 +84,8 @@ NOTE: Subtask 1 and 2 outputs are merged
 6. Update Student Email and Grade: Update Query statement to modify the email and grade of a student with a specific ID in the student table
 [Update student email and grade](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Update%20Student%20Email%20and%20Grade.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Update%20Student%20Email%20and%20Grade.JPG)
+
 7. Query for Students with Grade B: Query to retrieve the names and ages of all students who have a grade of B from the student table
 
 8. Query for Grouping and Calculation: Query to group the student_table by the Department and Gender columns and calculate the average GPA for each combination
