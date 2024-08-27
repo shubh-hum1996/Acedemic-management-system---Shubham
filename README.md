@@ -155,7 +155,7 @@ Code Link:[New attendees](https://github.com/shubh-hum1996/Acedemic-management-s
 
 b) Registering an attendee for an event.
 
-
+Code Link:[attendee for an event](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Registering%20an%20attendee%20for%20an%20event.sql)
 
 
 
