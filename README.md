@@ -138,4 +138,6 @@ b) Updating an Event's Information
 
 Code Link: [Updating EVENT](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Updating%20an%20event's%20information.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/Updating%20an%20event's%20information.JPG)
+
 c) Deleting an event
