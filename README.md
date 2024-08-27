@@ -173,8 +173,7 @@ Objective: Perform OLAP operations (Drill Down, Rollup, Cube, Slice, and Dice) o
 
 Code Link: [Database Creation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Database%20Creation.sql)
 
-    
-    2. Data Creation: Inserting 10 sample records into the sales_sample table, representing sales data.
+2. Data Creation: Inserting 10 sample records into the sales_sample table, representing sales data.
 
 Code Link: [Data Creation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Data%20Creation.sql)
 
