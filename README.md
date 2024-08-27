@@ -73,6 +73,8 @@ NOTE: Subtask 1 and 2 outputs are merged
 4.Query for Male Students: Query to retrieve information about all male students from the student_table
 [Male student](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Student%20which%20is%20male.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Query%20for%20Male%20Students.JPG)
+
 5. Query for Students with GPA less than 5.0: Query to fetch the details of students who have a GPA less than 5.0 from the student table
 
 6. Update Student Email and Grade: Update Query statement to modify the email and grade of a student with a specific ID in the student table
