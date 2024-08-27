@@ -136,4 +136,6 @@ Code Link: [Insert Event](https://github.com/shubh-hum1996/Acedemic-management-s
 
 b) Updating an Event's Information
 
+Code Link: [Updating EVENT](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Updating%20an%20event's%20information.sql)
+
 c) Deleting an event
