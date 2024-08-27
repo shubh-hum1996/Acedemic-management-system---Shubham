@@ -143,3 +143,5 @@ Code Link: [Updating EVENT](https://github.com/shubh-hum1996/Acedemic-management
 c) Deleting an event
 
 Code Link:[Deleting Event](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Deleting%20an%20event.sql)
+
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/Deleting%20an%20event%20no%205.JPG)
