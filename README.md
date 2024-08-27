@@ -106,6 +106,8 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 10. Query for Retrieving Student with Highest GPA: Query to retrieve the name of the student with the highest GPA from the student info table.
 
+[Highest GPA](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Retrieve%20Student%20with%20Highest%20GPA.sql)
+
 ### Description
 Design and develop an Academic Management System using SQL with three tables:
 - StudentInfo
