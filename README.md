@@ -39,6 +39,7 @@ e. Query to retrieve course details for multiple course
 [Code link](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Input%20Academic-Management-System-code/Reporting%20and%20analytics.sql)
 
 a. Query to retrieve number of students enrolled in each course
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-4a%20Number%20of%20students%20enrolled%20in%20each%20course.JPG)
 
 
 b. Query to retrieve students enrolled in specific course
