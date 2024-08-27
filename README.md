@@ -52,7 +52,7 @@ d. Query to retrieve count of enrolled students in multiple courses
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-4d%20list%20of%20students%20who%20are%20enrolled%20in%20multiple%20courses.JPG)
 
 e. Query to retrieve list of courses having highest number of enrolled students arranged from highest to lowest
-
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-4e%20courses%20that%20have%20the%20highest%20number%20of%20enrolled%20students(arranging%20from%20highest%20to%20lowest).JPG)
 
 ### Description
 Design and develop an Academic Management System using SQL with three tables:
