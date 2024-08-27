@@ -159,9 +159,9 @@ Code Link:[attendee for an event](https://github.com/shubh-hum1996/Acedemic-mana
 
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/Registering%20an%20attendee%20for%20an%20event.JPG)
 
+5. Develop queries to retrieve event information, generate attendee lists, and calculate event attendance statistics.
 
-
-
+Code Link:
 
 
 
