@@ -215,3 +215,4 @@ e) Dice - A query to view sales for specific combinations of product, region, an
 
 Code Link : [Dice](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Dice%20input.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Output-OLAP-Operations/Dice.JPG)
