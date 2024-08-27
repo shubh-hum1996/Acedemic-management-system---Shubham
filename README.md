@@ -82,7 +82,7 @@ NOTE: Subtask 1 and 2 outputs are merged
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Students%20with%20GPA%20less%20than%205.0.JPG)
 
 6. Update Student Email and Grade: Update Query statement to modify the email and grade of a student with a specific ID in the student table
-
+[Update student email and grade](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Update%20Student%20Email%20and%20Grade.sql)
 
 7. Query for Students with Grade B: Query to retrieve the names and ages of all students who have a grade of B from the student table
 
