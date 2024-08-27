@@ -190,6 +190,8 @@ a) Drill Down- Query to perform drill down from region to product level to under
 
 Code Link : [Drill Down](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Drill%20Down.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Output-OLAP-Operations/Drill%20down%20output.JPG)
+
 b) Rollup- A query to perform roll up from product to region level to view total sales by region.
 
 c) Cube - A query to explore sales data from different perspectives, such as product, region, and date. As MYSQL does not support CUBE keyword, we have used UNION ALL.
