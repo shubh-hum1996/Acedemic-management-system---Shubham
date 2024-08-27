@@ -102,9 +102,7 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 [Table renaming](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Table%20Renaming.sql)
 
-
-
-
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Table%20rename%20student%20info.JPG)
 
 10. Query for Retrieving Student with Highest GPA: Query to retrieve the name of the student with the highest GPA from the student info table.
 
