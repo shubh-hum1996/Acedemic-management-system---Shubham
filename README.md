@@ -65,7 +65,21 @@ The Student Database management system aims to have Student information includin
 NOTE: Subtask 1 and 2 outputs are merged
  ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Inserting%20value.JPG)
 
+3.Student Information Retrieval: Query to retrieve all students information from the student_table and sorting them in descending order by their grade.
 
+4.Query for Male Students: Query to retrieve information about all male students from the student_table
+
+5. Query for Students with GPA less than 5.0: Query to fetch the details of students who have a GPA less than 5.0 from the student table
+
+6. Update Student Email and Grade: Update Query statement to modify the email and grade of a student with a specific ID in the student table
+
+7. Query for Students with Grade B: Query to retrieve the names and ages of all students who have a grade of B from the student table
+
+8. Query for Grouping and Calculation: Query to group the student_table by the Department and Gender columns and calculate the average GPA for each combination
+
+9. Query for Table Renaming: Query to rename the student_table to student_info using the appropriate SQL statement
+
+10. Query for Retrieving Student with Highest GPA: Query to retrieve the name of the student with the highest GPA from the student info table.
 
 ### Description
 Design and develop an Academic Management System using SQL with three tables:
