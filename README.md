@@ -123,3 +123,6 @@ Code Link: [Database Creation](https://github.com/shubh-hum1996/Acedemic-managem
 Code Link: [Data Creation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Data%20Creation.sql)
 
 NOTE: Subtask 1 and 2 outputs are merged 
+
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/Inserting%20values%20in%20tables%20for%20Events%2C%20Attendees%2C%20and%20Registrations.JPG)
+
