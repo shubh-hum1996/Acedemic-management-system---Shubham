@@ -24,6 +24,7 @@ a. Query to retrieve student details
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-3a%20of%20student%20details.JPG)
 
 b. Query to retrieve a list of courses by "enrolled" filter
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-3b%20List%20of%20course%20where%20specific%20student%20enrolled%20output.JPG)
 
 c. Query to retrieve course details
 
