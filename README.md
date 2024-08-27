@@ -163,5 +163,7 @@ Code Link:[attendee for an event](https://github.com/shubh-hum1996/Acedemic-mana
 
 Code Link:[Event and attende statics](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Event_and_Attendees_Statistics.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/queries%20to%20rRetrieve%20event%20information%2C%20generate%20attendee%20lists%2C%20and%20calculate%20event%20attendance%20statistic.JPG)
+
 
 
