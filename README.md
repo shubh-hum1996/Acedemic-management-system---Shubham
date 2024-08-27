@@ -202,6 +202,9 @@ c) Cube - A query to explore sales data from different perspectives, such as pro
 
 Code Link : [Cube](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Cube-.sql)
 
+
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Output-OLAP-Operations/Cube-.JPG)
+
 d)Slice- A query to slice the data to view sales for a particular region or date range.
 
 e) Dice - A query to view sales for specific combinations of product, region, and date
