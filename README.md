@@ -151,6 +151,8 @@ a) Inserting a new attendee
 
 Code Link:[New attendees](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Manage%20Track%20Attendees%20%26%20Handle%20Events-%20Insert%20new%20attendee.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/Inserting%20new%20attendee.JPG)
+
 b) Registering an attendee for an event.
 
 
