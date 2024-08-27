@@ -149,6 +149,8 @@ Code Link:[Deleting Event](https://github.com/shubh-hum1996/Acedemic-management-
 4. Manage Track Attendees Handle Events: Query to insert and register new attendee.
 a) Inserting a new attendee
 
+Code Link:[New attendees](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Manage%20Track%20Attendees%20%26%20Handle%20Events-%20Insert%20new%20attendee.sql)
+
 b) Registering an attendee for an event.
 
 
