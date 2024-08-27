@@ -93,8 +93,3 @@ Perform OLAP operations on sales data to analyze different dimensions, aggregati
 - insert_data.sql – Script to insert sample data.
 - olap_queries.sql – Script with OLAP operations.
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
