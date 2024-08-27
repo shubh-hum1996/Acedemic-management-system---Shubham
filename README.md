@@ -54,7 +54,7 @@ d. Query to retrieve count of enrolled students in multiple courses
 e. Query to retrieve list of courses having highest number of enrolled students arranged from highest to lowest
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-4e%20courses%20that%20have%20the%20highest%20number%20of%20enrolled%20students(arranging%20from%20highest%20to%20lowest).JPG)
 
-Task 2 : **Student Database Management System**
+**Task** **2** : **Student Database Management System**
 
 The Student Database management system aims to have Student information including their department, contact address, DOB and scores.
 
@@ -110,3 +110,16 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Retrieve%20Student%20with%20Highest%20GPA.JPG)
 
+**Task** **3** : **Event Management System**
+
+This task develops the application that allows users to create and manage events, track attendees, and handle event registrations efficiently.
+
+    1.Database Creation: Creating database EventsManagement and tables for tables for Events, Attendees, and Registrations
+
+Code Link: Database Creation
+
+   2. Data Creation: Inserting 10 sample records of data for Events, Attendees, and Registrations tables with respective fields.
+
+Code Link: Data Creation
+
+NOTE: Subtask 1 and 2 outputs are merged 
