@@ -9,7 +9,7 @@ This repository contains multiple SQL projects demonstrating various database ma
 3. *Event Management System*: A system to handle events, attendees, and registrations using PostgreSQL.
 4. *OLAP Operations*: Analysis of sales data using OLAP operations in Redshift or PostgreSQL.
 
-## Project 1: Academic Management System
+## Project 1: Academic Management System Task 1
 
 The Academic management system aims to have Student information, Course information and Enrollment information.
 
@@ -53,6 +53,16 @@ d. Query to retrieve count of enrolled students in multiple courses
 
 e. Query to retrieve list of courses having highest number of enrolled students arranged from highest to lowest
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-4e%20courses%20that%20have%20the%20highest%20number%20of%20enrolled%20students(arranging%20from%20highest%20to%20lowest).JPG)
+
+Task 2 : **Student Database Management System**
+
+The Student Database management system aims to have Student information including their department, contact address, DOB and scores.
+
+   1. Database Setup: Creating database Student_Database and table student_table, Code Link: 
+
+   2. Data Entry: Inserting 10 sample records of data in the student_table Code Link: 
+
+
 
 ### Description
 Design and develop an Academic Management System using SQL with three tables:
