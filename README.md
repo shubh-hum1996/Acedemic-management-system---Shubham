@@ -1,5 +1,4 @@
 ##Project-Shubham.
-# Academic Management System, Student Database Management System, and Event Management System Projects
 
 ## Overview
 
@@ -11,6 +10,15 @@ This repository contains multiple SQL projects demonstrating various database ma
 4. *OLAP Operations*: Analysis of sales data using OLAP operations in Redshift or PostgreSQL.
 
 ## Project 1: Academic Management System
+
+The Academic management system aims to have Student information, Course information and Enrollment information.
+
+   1. Database Creation: Creating following tables - Student information, Course information and Enrollment information. Code Link: Database Creation
+
+   2. Data Creation: Inserting the sample records of data in the tables Code Link: Data Creation
+
+   3.Retrive Student Information: Code Link: Retrive Student Information
+
 
 ### Description
 Design and develop an Academic Management System using SQL with three tables:
