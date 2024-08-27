@@ -96,6 +96,7 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 [Grouping and calculation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Grouping%20and%20Calculation.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Grouping%20and%20Calculation.JPG)
 
 9. Query for Table Renaming: Query to rename the student_table to student_info using the appropriate SQL statement
 
