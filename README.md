@@ -62,6 +62,9 @@ The Student Database management system aims to have Student information includin
 
    2. Data Entry: Inserting 10 sample records of data in the student_table Code Link: [Data Entry](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Data%20entry.sql)
 
+NOTE: Subtask 1 and 2 outputs are merged
+ ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Inserting%20value.JPG)
+
 
 
 ### Description
