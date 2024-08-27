@@ -180,4 +180,4 @@ Code Link: [Data Creation](https://github.com/shubh-hum1996/Acedemic-management-
 
 NOTE: Subtask 1 and 2 outputs are merged
 
-
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Output-OLAP-Operations/Task%204Data%20Creation.JPG)
