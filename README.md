@@ -108,6 +108,8 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 [Highest GPA](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Retrieve%20Student%20with%20Highest%20GPA.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Retrieve%20Student%20with%20Highest%20GPA.JPG)
+
 ### Description
 Design and develop an Academic Management System using SQL with three tables:
 - StudentInfo
