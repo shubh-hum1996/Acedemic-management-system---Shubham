@@ -132,6 +132,7 @@ a) Inserting a New Event
 
 Code Link: [Insert Event](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Manage%20Event%20Details-%20Inserting%20new%20event.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/Inserting%20new%20event.JPG)
 
 b) Updating an Event's Information
 
