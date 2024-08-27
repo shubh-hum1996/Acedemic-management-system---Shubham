@@ -10,3 +10,8 @@ VALUES
 (8, 'Gaytri Girde', 'Engineering', 'gaytri.girde@gmail.com', '555-0108', '753 Fir St', '2001-09-13', 'M', 'Civil Engineering', 3.3, 'B'),
 (9, 'Praveen Maurya', 'Computer Science', 'praveen.maurya@gmail.com', '555-0109', '852 Redwood St', '2000-10-05', 'F', 'Data Science', 3.6, 'A'),
 (10, 'Sanath Bewara', 'Mathematics', 'sanath.bewara@gmail.com', '555-0110', '369 Elm St', '1998-06-25', 'M', 'Statistics', 2.8, 'C');
+
+SELECT 
+    *
+FROM
+    student_table;
