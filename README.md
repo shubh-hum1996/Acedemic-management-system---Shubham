@@ -90,6 +90,7 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 [Student grade B](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Query%20for%20Students%20with%20Grade%20B.sql)
 
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Students%20with%20Grade%20B.JPG)
 
 8. Query for Grouping and Calculation: Query to group the student_table by the Department and Gender columns and calculate the average GPA for each combination
 
