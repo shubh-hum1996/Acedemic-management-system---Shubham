@@ -126,3 +126,12 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/Inserting%20values%20in%20tables%20for%20Events%2C%20Attendees%2C%20and%20Registrations.JPG)
 
+3. Manage Event Details: Query to perform Insert Update and Delete operations on Event Table.
+
+a) Inserting a New Event
+
+
+
+b) Updating an Event's Information
+
+c) Deleting an event
