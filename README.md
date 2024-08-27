@@ -194,6 +194,8 @@ Code Link : [Drill Down](https://github.com/shubh-hum1996/Acedemic-management-sy
 
 b) Rollup- A query to perform roll up from product to region level to view total sales by region.
 
+Code Link :[Roll up](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Roll%20up.sql)
+
 c) Cube - A query to explore sales data from different perspectives, such as product, region, and date. As MYSQL does not support CUBE keyword, we have used UNION ALL.
 
 d)Slice- A query to slice the data to view sales for a particular region or date range.
