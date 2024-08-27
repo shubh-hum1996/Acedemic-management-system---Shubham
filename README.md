@@ -33,6 +33,7 @@ d. Query to retrieve course details for a specific course
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-3d%20course%20information%20for%20specific%20course.JPG)
 
 e. Query to retrieve course details for multiple course
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-3e%20course%20information%20for%20multiple%20course.JPG)
 
 
 
