@@ -66,6 +66,7 @@ NOTE: Subtask 1 and 2 outputs are merged
  ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Inserting%20value.JPG)
 
 3.Student Information Retrieval: Query to retrieve all students information from the student_table and sorting them in descending order by their grade.
+[Sorting_Grade_Desc](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Student%20Information%20Retrieval%20sort%20them%20in%20descending%20order%20by%20their%20grades%20.sql)
 
 4.Query for Male Students: Query to retrieve information about all male students from the student_table
 
