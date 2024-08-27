@@ -13,7 +13,7 @@ This repository contains multiple SQL projects demonstrating various database ma
 
 The Academic management system aims to have Student information, Course information and Enrollment information.
 
-   1. Database Creation: Creating following tables - Student information, Course information and Enrollment information. Code Link:[Database creation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Input%20Academic-Management-System-code/Data%20Creation.sql)
+   1. Database Creation: Creating following tables - Student information, Course information and Enrollment information. Code Link:[Database creation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Input%20Academic-Management-System-code/Database%20creation.sql)
 
    2. Data Creation: Inserting the sample records of data in the tables Code Link: [Data Creation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Input%20Academic-Management-System-code/Database%20creation.sql)
 
