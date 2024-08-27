@@ -114,7 +114,7 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 This task develops the application that allows users to create and manage events, track attendees, and handle event registrations efficiently.
 
-    1.Database Creation: Creating database EventsManagement and tables for tables for Events, Attendees, and Registrations
+ 1.Database Creation: Creating database EventsManagement and tables for tables for Events, Attendees, and Registrations
 
 Code Link: [Database Creation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Event%20Management%20System%20using%20PostgreSQL.sql)
 
