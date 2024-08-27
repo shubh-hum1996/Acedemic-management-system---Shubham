@@ -209,7 +209,7 @@ d)Slice- A query to slice the data to view sales for a particular region or date
 
 Code Link : [Slice](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Slice.sql)
 
-
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Output-OLAP-Operations/Slice%20output.JPG)
 
 e) Dice - A query to view sales for specific combinations of product, region, and date
 
