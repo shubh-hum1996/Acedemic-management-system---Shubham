@@ -88,6 +88,9 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 7. Query for Students with Grade B: Query to retrieve the names and ages of all students who have a grade of B from the student table
 
+[Student grade B](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Query%20for%20Students%20with%20Grade%20B.sql)
+
+
 8. Query for Grouping and Calculation: Query to group the student_table by the Department and Gender columns and calculate the average GPA for each combination
 
 9. Query for Table Renaming: Query to rename the student_table to student_info using the appropriate SQL statement
