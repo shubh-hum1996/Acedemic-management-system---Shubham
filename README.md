@@ -21,6 +21,7 @@ The Academic management system aims to have Student information, Course informat
 
 
 a. Query to retrieve student details
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-3a%20of%20student%20details.JPG)
 
 ### Description
 Design and develop an Academic Management System using SQL with three tables:
