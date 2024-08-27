@@ -207,7 +207,11 @@ Code Link : [Cube](https://github.com/shubh-hum1996/Acedemic-management-system--
 
 d)Slice- A query to slice the data to view sales for a particular region or date range.
 
+Code Link : [Slice](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task4-Input-OLAP-Operations/Slice.sql)
+
+
+
 e) Dice - A query to view sales for specific combinations of product, region, and date
 
-
+Code Link :
 
