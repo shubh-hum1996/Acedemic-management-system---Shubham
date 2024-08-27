@@ -145,3 +145,19 @@ c) Deleting an event
 Code Link:[Deleting Event](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Deleting%20an%20event.sql)
 
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Output-file-event-management/Deleting%20an%20event%20no%205.JPG)
+
+4. Manage Track Attendees Handle Events: Query to insert and register new attendee.
+a) Inserting a new attendee
+
+b) Registering an attendee for an event.
+
+
+
+
+
+
+
+
+
+
+
