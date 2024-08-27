@@ -10,3 +10,5 @@ VALUES
     (1, 'South', '2024-01-05', 150),
     (2, 'North', '2024-01-06', 180),
     (4, 'West', '2024-01-07', 220);
+
+    SELECT * FROM sales_sample;
