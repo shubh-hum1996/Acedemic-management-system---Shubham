@@ -43,6 +43,7 @@ a. Query to retrieve number of students enrolled in each course
 
 
 b. Query to retrieve students enrolled in specific course
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-4b%20list%20of%20students%20enrolled%20in%20a%20specific%20course.JPG)
 
 c. Query to retrieve count of enrolled students for each instructor
 
