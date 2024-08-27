@@ -129,7 +129,7 @@ NOTE: Subtask 1 and 2 outputs are merged
 3. Manage Event Details: Query to perform Insert Update and Delete operations on Event Table.
 
 a) Inserting a New Event
-[Insert Event](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Manage%20Event%20Details-%20Inserting%20new%20event.sql)
+Code Link: [Insert Event](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Manage%20Event%20Details-%20Inserting%20new%20event.sql)
 
 
 b) Updating an Event's Information
