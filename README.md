@@ -49,6 +49,7 @@ c. Query to retrieve count of enrolled students for each instructor
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-4c%20count%20of%20enrolled%20students%20for%20each%20instructor.JPG)
 
 d. Query to retrieve count of enrolled students in multiple courses
+![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task1-Output-Academic-Management-System/Output-4d%20list%20of%20students%20who%20are%20enrolled%20in%20multiple%20courses.JPG)
 
 e. Query to retrieve list of courses having highest number of enrolled students arranged from highest to lowest
 
