@@ -77,15 +77,17 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 5. Query for Students with GPA less than 5.0: Query to fetch the details of students who have a GPA less than 5.0 from the student table
 
-6. Update Student Email and Grade: Update Query statement to modify the email and grade of a student with a specific ID in the student table
+[GPA_less_than_5](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Query%20for%20Students%20with%20GPA%20less%20than%205.sql)
 
-7. Query for Students with Grade B: Query to retrieve the names and ages of all students who have a grade of B from the student table
+7. Update Student Email and Grade: Update Query statement to modify the email and grade of a student with a specific ID in the student table
 
-8. Query for Grouping and Calculation: Query to group the student_table by the Department and Gender columns and calculate the average GPA for each combination
+8. Query for Students with Grade B: Query to retrieve the names and ages of all students who have a grade of B from the student table
 
-9. Query for Table Renaming: Query to rename the student_table to student_info using the appropriate SQL statement
+9. Query for Grouping and Calculation: Query to group the student_table by the Department and Gender columns and calculate the average GPA for each combination
 
-10. Query for Retrieving Student with Highest GPA: Query to retrieve the name of the student with the highest GPA from the student info table.
+10. Query for Table Renaming: Query to rename the student_table to student_info using the appropriate SQL statement
+
+11. Query for Retrieving Student with Highest GPA: Query to retrieve the name of the student with the highest GPA from the student info table.
 
 ### Description
 Design and develop an Academic Management System using SQL with three tables:
