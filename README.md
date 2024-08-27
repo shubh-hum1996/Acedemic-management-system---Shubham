@@ -161,7 +161,7 @@ Code Link:[attendee for an event](https://github.com/shubh-hum1996/Acedemic-mana
 
 5. Develop queries to retrieve event information, generate attendee lists, and calculate event attendance statistics.
 
-Code Link:
+Code Link:[Event and attende statics](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task3-Event-Management-System/Event_and_Attendees_Statistics.sql)
 
 
 
