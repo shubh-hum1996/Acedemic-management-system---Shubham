@@ -94,6 +94,9 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 8. Query for Grouping and Calculation: Query to group the student_table by the Department and Gender columns and calculate the average GPA for each combination
 
+[Grouping and calculation](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Grouping%20and%20Calculation.sql)
+
+
 9. Query for Table Renaming: Query to rename the student_table to student_info using the appropriate SQL statement
 
 10. Query for Retrieving Student with Highest GPA: Query to retrieve the name of the student with the highest GPA from the student info table.
