@@ -1,4 +1,7 @@
-SELECT Stu_name
-FROM student_info
-ORDER BY GPA DESC
-LIMIT 1;
+SELECT 
+    stu_name, GPA
+FROM
+    STUDENT_INFO
+ORDER BY 
+	GPA DESC
+	LIMIT 1;
