@@ -58,7 +58,7 @@ Task 2 : **Student Database Management System**
 
 The Student Database management system aims to have Student information including their department, contact address, DOB and scores.
 
-   1. Database Setup: Creating database Student_Database and table student_table, Code Link: 
+   1. Database Setup: Creating database Student_Database and table student_table, Code Link: [Database setup](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/1-Database%20Setup.sql)
 
    2. Data Entry: Inserting 10 sample records of data in the student_table Code Link: 
 
