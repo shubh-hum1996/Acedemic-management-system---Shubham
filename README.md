@@ -71,6 +71,7 @@ NOTE: Subtask 1 and 2 outputs are merged
 ![Alt Text](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Output-Student-database-management-system/Student%20Information%20Retrieval.JPG)
 
 4.Query for Male Students: Query to retrieve information about all male students from the student_table
+[Male student](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Student%20which%20is%20male.sql)
 
 5. Query for Students with GPA less than 5.0: Query to fetch the details of students who have a GPA less than 5.0 from the student table
 
