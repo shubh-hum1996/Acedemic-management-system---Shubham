@@ -100,6 +100,12 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 9. Query for Table Renaming: Query to rename the student_table to student_info using the appropriate SQL statement
 
+[Table renaming](https://github.com/shubh-hum1996/Acedemic-management-system---Shubham/blob/main/Task2-Input-Student-Database-Management-System/Table%20Renaming.sql)
+
+
+
+
+
 10. Query for Retrieving Student with Highest GPA: Query to retrieve the name of the student with the highest GPA from the student info table.
 
 ### Description
